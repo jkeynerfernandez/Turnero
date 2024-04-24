@@ -1,7 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using Turnero.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<DataContext>(options =>
+options.UseMySql(builder.Configuration.GetConnectionString("MySqlConnetion"),
+Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.0.20-mysql")));
+
 
 var app = builder.Build();
 
@@ -22,6 +30,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Administradores}/{action=Index}/{id?}");
 
 app.Run();
