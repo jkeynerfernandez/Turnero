@@ -2,10 +2,10 @@
     <div class="card cardUsuario">
         <div class="card-body">
             <h1>Bienvenido al sistema de <br>gestion de usuarios</h1>
-            <input class="inputUsuario" placeholder="Ingrese su numero de indentificacion" type="text" value="">
+            <input class="inputUsuario" placeholder="Ingrese su numero de indentificacion" type="text" value="@ViewBag.teclear">
             <div class="teclado">
                 <div>
-                    <button class="BotonTeclado">1</button>
+                    <a asp-controller="Login" asp-action="Teclear" class="btn btn-primary BotonTeclado">1</a>
                 </div>
                 <div>
                     <button class="BotonTeclado">2</button>

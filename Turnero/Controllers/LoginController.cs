@@ -36,7 +36,16 @@ namespace Turnero.Controllers{
                 ViewBag.Alerta = "Debes llenar todos los campos";
                 return RedirectToAction("Index") ;    
             }
+        }
+
+
+        public IActionResult Teclear(){
             
+            
+
+            
+            
+            return View();
         }
     }
 }
