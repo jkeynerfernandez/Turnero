@@ -19,6 +19,8 @@ namespace Turnero.Controllers{
         }
 
         public int  contar(string? tipo){
+            //esta funcion contará cuantos turnos hay en cola segun el tipo, tipo asignado por el modulo
+            //cuando el usuario elege en que módulo trabajar 
             
             int cantidad =_context.Turnos.Count(m=> m.Tipo == tipo);
             return cantidad;
