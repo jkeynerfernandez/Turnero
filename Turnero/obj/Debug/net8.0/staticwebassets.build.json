@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Kq4J53rxzk86ck5iqy7OdLH90oWeS8KTUl7Axa3JvXo=",
+  "Hash": "tQNN62/wW1d1yz6lyDEhGyWrl/uqnfnjBXYzZuFyW8Y=",
   "Source": "Turnero",
   "BasePath": "_content/Turnero",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Turnero.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\wwwroot\\css\\Login.css",
+      "SourceId": "Turnero",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\wwwroot\\",
+      "BasePath": "_content/Turnero",
+      "RelativePath": "css/Login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Login.css"
     },
     {
       "Identity": "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\wwwroot\\css\\site.css",
