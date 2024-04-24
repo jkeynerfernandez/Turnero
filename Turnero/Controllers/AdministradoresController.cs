@@ -11,8 +11,10 @@ namespace Turnero.Controllers{
             _context = context;
         }
 
-        public IActionResult Index(){
-            return View();
+        public async Task<IActionResult> Index(){
+            return View(await _context.Administradores.ToListAsync());
         }
+
+        
     }
 }

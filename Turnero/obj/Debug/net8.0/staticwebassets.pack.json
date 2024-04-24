@@ -5,7 +5,15 @@
       "PackagePath": "staticwebassets\\Turnero.bundle.scp.css"
     },
     {
+<<<<<<< HEAD
       "Id": "D:\\riwi\\csharp\\Turnero\\Turnero\\wwwroot\\css\\site.css",
+=======
+      "Id": "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\wwwroot\\css\\site.css",
+>>>>>>> 1192c40ddce837339a5e44f69a9639aed7112524
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {

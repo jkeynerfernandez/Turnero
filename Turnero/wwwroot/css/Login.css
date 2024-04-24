@@ -1,0 +1,73 @@
+
+
+.containerLogin{
+    width: 100%;
+    display: grid;
+    place-content: center;
+}
+
+.cardLogin{
+    width: 400px;
+    height: 500px;
+    border: 1px solid black;
+    text-align: center;
+    top: 100px;
+    border-radius: 15px;
+}
+
+.h1Login{
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+.inputLogin{
+    width: 100%;
+    height: 40px;
+    margin-bottom: 40px;
+}
+
+label{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.botonLogin{
+    width: 60%;
+}
+
+
+
+.cardUsuario{
+    width: 800px;
+    top: 50px;
+    text-align: center;
+}
+
+.teclado{
+    margin: auto;
+    width: 50%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+    margin-bottom: 30px;
+}
+
+.BotonTeclado{
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    padding: 0%;
+    margin: 0%;
+}
+
+.inputUsuario{
+    width: 80%;
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.botonUsuario{
+    width: 50%;
+}
