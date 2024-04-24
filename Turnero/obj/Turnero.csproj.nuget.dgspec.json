@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip5-003/Documents/Keyner/csharp/Turnero/Turnero/Turnero.csproj": {}
+    "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\Turnero.csproj": {}
   },
   "projects": {
-    "/home/riwip5-003/Documents/Keyner/csharp/Turnero/Turnero/Turnero.csproj": {
+    "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\Turnero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/riwip5-003/Documents/Keyner/csharp/Turnero/Turnero/Turnero.csproj",
+        "projectUniqueName": "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\Turnero.csproj",
         "projectName": "Turnero",
-        "projectPath": "/home/riwip5-003/Documents/Keyner/csharp/Turnero/Turnero/Turnero.csproj",
-        "packagesPath": "/home/riwip5-003/.nuget/packages/",
-        "outputPath": "/home/riwip5-003/Documents/Keyner/csharp/Turnero/Turnero/obj/",
+        "projectPath": "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\Turnero.csproj",
+        "packagesPath": "C:\\Users\\duvian lopez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/riwip5-003/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\duvian lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -56,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
