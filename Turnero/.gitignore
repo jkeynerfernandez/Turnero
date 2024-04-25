@@ -449,5 +449,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-obj
 bin
+obj
