@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\duvian lopez\Desktop\turnero\Turnero\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\duvian lopez\Desktop\turnero\Turnero\bin\Debug\net8.0\appsettings.json
 C:\Users\duvian lopez\Desktop\turnero\Turnero\bin\Debug\net8.0\Turnero.staticwebassets.runtime.json
@@ -36,6 +37,57 @@ C:\Users\duvian lopez\Desktop\turnero\Turnero\obj\Debug\net8.0\refint\Turnero.dl
 C:\Users\duvian lopez\Desktop\turnero\Turnero\obj\Debug\net8.0\Turnero.pdb
 C:\Users\duvian lopez\Desktop\turnero\Turnero\obj\Debug\net8.0\Turnero.genruntimeconfig.cache
 C:\Users\duvian lopez\Desktop\turnero\Turnero\obj\Debug\net8.0\ref\Turnero.dll
+<<<<<<< HEAD
+<<<<<<< HEAD
+C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\Turnero.dll
+C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\refint\Turnero.dll
+C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\Turnero.pdb
+=======
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.dll
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\refint\Turnero.dll
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.pdb
+=======
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\appsettings.Development.json
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\appsettings.json
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\Turnero.staticwebassets.runtime.json
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\Turnero.exe
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\Turnero.deps.json
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\Turnero.runtimeconfig.json
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\Turnero.dll
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\Turnero.pdb
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\MySqlConnector.dll
+D:\riwi\csharp\Turnero\Turnero\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.csproj.AssemblyReference.cache
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.GeneratedMSBuildEditorConfig.editorconfig
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.AssemblyInfoInputs.cache
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.AssemblyInfo.cs
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.csproj.CoreCompileInputs.cache
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.MvcApplicationPartsAssemblyInfo.cache
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.RazorAssemblyInfo.cache
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.RazorAssemblyInfo.cs
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.sourcelink.json
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\staticwebassets.build.json
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\staticwebassets.development.json
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\staticwebassets\msbuild.Turnero.Microsoft.AspNetCore.StaticWebAssets.props
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\staticwebassets\msbuild.build.Turnero.props
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Turnero.props
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Turnero.props
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\staticwebassets.pack.json
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\scopedcss\bundle\Turnero.styles.css
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\scopedcss\projectbundle\Turnero.bundle.scp.css
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.csproj.Up2Date
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.dll
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\refint\Turnero.dll
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.pdb
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.genruntimeconfig.cache
+D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\ref\Turnero.dll
+>>>>>>> keyner
+>>>>>>> a4be5796c969ad3bde54bf6f02592c9863093647
+=======
 C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\Turnero.csproj.AssemblyReference.cache
 C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\Turnero.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\Turnero.AssemblyInfoInputs.cache
@@ -74,3 +126,4 @@ C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\scopedcss
 C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\Turnero.csproj.Up2Date
 C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\Turnero.genruntimeconfig.cache
 C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\ref\Turnero.dll
+>>>>>>> Vladimir
