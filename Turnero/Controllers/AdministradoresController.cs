@@ -12,7 +12,23 @@ namespace Turnero.Controllers{
         }
 
         public async Task<IActionResult> Index(){
+            //variable de inicio de sesion para saludar a el usuario logueado
             ViewBag.Nombre= HttpContext.Session.GetString("Nombre");
+
+
+            //variables que contendrán la cantidad de turnos por cada tipo 
+            var cantidadSC = _context.Turnos.Count(m => m.Tipo == "SC");
+            var cantidadPF = _context.Turnos.Count(m => m.Tipo == "PF");
+            var cantidadAM = _context.Turnos.Count(m => m.Tipo == "AM");
+            var cantidadIG = _context.Turnos.Count(m => m.Tipo == "IG");
+
+            ViewBag.CantidadSC = cantidadSC;
+            ViewBag.CantidadPF = cantidadPF;
+            ViewBag.CantidadAM = cantidadAM;
+            ViewBag.CantidadIG = cantidadIG;
+
+            //fin del conteo :)
+
             return View(await _context.Administradores.ToListAsync());
         }
 
