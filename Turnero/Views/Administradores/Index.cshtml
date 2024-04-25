@@ -1,1 +1,26 @@
-<h1>Dio</h1>
+
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Correo</th>
+                <th>Contraseña</th>
+                <th>Accion</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var ad in Model){
+                <tr>
+                    <td>@ad.Nombre</td>
+                    <td>@ad.Correo</td>
+                    <td>@ad.Contraseña</td>
+                    <td>
+                        <a class="btn btn-success" asp-controller="" asp-action="" asp-route-id="@ad.Id" >Atender</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div> 
