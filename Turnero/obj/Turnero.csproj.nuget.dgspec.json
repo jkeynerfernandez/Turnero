@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\Turnero.csproj": {}
+    "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\Turnero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\Turnero.csproj": {
+    "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\Turnero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\Turnero.csproj",
+        "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\Turnero.csproj",
         "projectName": "Turnero",
-        "projectPath": "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\Turnero.csproj",
-        "packagesPath": "C:\\Users\\duvian lopez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\duvian lopez\\Desktop\\turnero\\Turnero\\obj\\",
+        "projectPath": "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\Turnero.csproj",
+        "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\duvian lopez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -78,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

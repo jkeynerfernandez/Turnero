@@ -36,3 +36,6 @@ C:\Users\duvian lopez\Desktop\turnero\Turnero\obj\Debug\net8.0\refint\Turnero.dl
 C:\Users\duvian lopez\Desktop\turnero\Turnero\obj\Debug\net8.0\Turnero.pdb
 C:\Users\duvian lopez\Desktop\turnero\Turnero\obj\Debug\net8.0\Turnero.genruntimeconfig.cache
 C:\Users\duvian lopez\Desktop\turnero\Turnero\obj\Debug\net8.0\ref\Turnero.dll
+C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\Turnero.dll
+C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\refint\Turnero.dll
+C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\obj\Debug\net8.0\Turnero.pdb
