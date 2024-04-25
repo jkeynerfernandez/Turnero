@@ -20,6 +20,11 @@ namespace Turnero.Controllers{
             return View();
         }
 
+           public IActionResult Buttons_services(){
+            return View( "Button_service");
+        }
+
+
         [HttpPost]
         public async Task<IActionResult> Login(string NombreLogin, string ContraseñaLogin){
 

@@ -9,5 +9,10 @@ namespace Turnero.Data{
         }
 
         public DbSet<Administrador> Administradores { get; set; }
+        public DbSet<Buttons_services> Buttons_services { get; set; }
+    }
+
+    public class Buttons_services
+    {
     }
 }
