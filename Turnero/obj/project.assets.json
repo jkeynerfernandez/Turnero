@@ -720,6 +720,9 @@
   },
   "packageFolders": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Vladimir
     "C:\\Users\\vladi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
 =======
@@ -730,11 +733,15 @@
     "version": "1.0.0",
     "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Vladimir
       "projectUniqueName": "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\Turnero.csproj",
       "projectName": "Turnero",
       "projectPath": "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\Turnero.csproj",
       "packagesPath": "C:\\Users\\vladi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\obj\\",
+<<<<<<< HEAD
 =======
       "projectUniqueName": "D:\\riwi\\csharp\\Turnero\\Turnero\\Turnero.csproj",
       "projectName": "Turnero",
@@ -742,9 +749,14 @@
       "packagesPath": "C:\\Users\\Juan Keyner\\.nuget\\packages\\",
       "outputPath": "D:\\riwi\\csharp\\Turnero\\Turnero\\obj\\",
 >>>>>>> a4be5796c969ad3bde54bf6f02592c9863093647
+=======
+>>>>>>> Vladimir
       "projectStyle": "PackageReference",
       "configFilePaths": [
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Vladimir
         "C:\\Users\\vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -758,8 +770,11 @@
       "sources": {
 <<<<<<< HEAD
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+<<<<<<< HEAD
 =======
 >>>>>>> a4be5796c969ad3bde54bf6f02592c9863093647
+=======
+>>>>>>> Vladimir
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -812,10 +827,14 @@
           }
         },
 <<<<<<< HEAD
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
 =======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
 >>>>>>> a4be5796c969ad3bde54bf6f02592c9863093647
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+>>>>>>> Vladimir
       }
     }
   }
