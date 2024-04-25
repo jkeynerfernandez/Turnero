@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Turnero")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5068b5b623049bcd4636b52d9c34f29bb792c533")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+521028cfe95872224c81df198575679e6ed4a8cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Turnero")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Turnero")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
