@@ -70,4 +70,12 @@ label{
 
 .botonUsuario{
     width: 50%;
+    text-shadow: 0 0 5px black,
+    0 0 15px black;
+}
+
+.error{
+    margin-top: 20px;
+    font-size: 18px;
+    color: red;
 }

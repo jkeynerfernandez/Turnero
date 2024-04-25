@@ -29,19 +29,20 @@ namespace Turnero.Controllers{
                     
                     return RedirectToAction("Index" , "Administradores");
                 }else{
-                    ViewBag.Alerta = "El nombre o la contraseña son incorrectos";
+                    TempData["data"] = "El nombre o la contraseña son incorrectos";
                     return RedirectToAction("Index");
                 }
             }else{
-                ViewBag.Alerta = "Debes llenar todos los campos";
+                TempData["data"] = "Debes llenar todos los campos";
                 return RedirectToAction("Index") ;    
             }
+            
         }
 
 
         public IActionResult Teclear(){
             
-            
+
 
             
             
