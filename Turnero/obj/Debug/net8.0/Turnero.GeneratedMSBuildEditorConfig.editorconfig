@@ -18,32 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\riwi\csharp\Turnero\Turnero
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Administradores/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvcmVzXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/riwi/csharp/Turnero/Turnero/Views/Login/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/riwi/csharp/Turnero/Turnero/Views/Login/Usuario.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVXN1YXJpby5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/riwi/csharp/Turnero/Turnero/Views/Modulos/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxvc1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/riwi/csharp/Turnero/Turnero/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/riwi/csharp/Turnero/Turnero/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/riwi/csharp/Turnero/Turnero/Views/Turnos/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/riwi/csharp/Turnero/Turnero/Views/_ViewImports.cshtml]

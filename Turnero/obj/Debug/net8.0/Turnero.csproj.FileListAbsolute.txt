@@ -74,9 +74,6 @@ D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.c
 D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\scopedcss\bundle\Turnero.styles.css
 D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\scopedcss\projectbundle\Turnero.bundle.scp.css
 D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.csproj.Up2Date
-D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.dll
-D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\refint\Turnero.dll
-D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.pdb
 D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\Turnero.genruntimeconfig.cache
 D:\riwi\csharp\Turnero\Turnero\obj\Debug\net8.0\ref\Turnero.dll
 >>>>>>> keyner
