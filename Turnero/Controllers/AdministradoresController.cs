@@ -12,6 +12,7 @@ namespace Turnero.Controllers{
         }
 
         public async Task<IActionResult> Index(){
+            ViewBag.Nombre= HttpContext.Session.GetString("Nombre");
             return View(await _context.Administradores.ToListAsync());
         }
 

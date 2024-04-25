@@ -9,5 +9,6 @@ namespace Turnero.Data{
         }
 
         public DbSet<Administrador> Administradores { get; set; }
+        public DbSet<Turno> Turnos { get; set; }
     }
 }
