@@ -16,6 +16,9 @@ namespace Turnero.Controllers{
             return View(await _context.Administradores.ToListAsync());
         }
 
+       
+        
+
         
     }
 }

@@ -14,8 +14,9 @@ namespace Turnero.Controllers{
 
         }
 
-        public IActionResult Index(){
-            return View();
+        public async Task<IActionResult> Index(string tipo){
+            
+            return View(await _context.Turnos.Where(t=> t.Tipo==tipo).ToListAsync());
         }
 
         public int  contar(string? tipo){

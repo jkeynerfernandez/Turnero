@@ -1,0 +1,22 @@
+<table>
+    <thead>
+        <tr>
+            <th>Turno </th>
+            <th>ACTIONS</th>
+        </tr>
+    </thead>
+
+    @foreach(var turno in Model ){
+
+         <tr>
+            <td>@turno.Tipo - @turno.Numero</td>
+            
+            <td>
+                <a asp-area="" asp-controller="" asp-action="" asp-route-id=""><button>Atender</button></a>
+
+            </td>
+        </tr>
+
+    }
+
+</table>
