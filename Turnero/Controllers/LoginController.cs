@@ -25,7 +25,16 @@ namespace Turnero.Controllers{
 
             if(NombreLogin != null && ContraseñaLogin != null){
                 var adminLog = await _context.Administradores.FirstOrDefaultAsync(ad => ad.Nombre == NombreLogin);
+               
+               
                 if(adminLog != null && adminLog.Contraseña == ContraseñaLogin){
+
+                    //datos extraidos al iniciar sesion 
+                    HttpContext.Session.SetString("Nombre",adminLog.Nombre);
+
+                    //fin de extraccion de datos 
+
+
                     
                     return RedirectToAction("Index" , "Administradores");
                 }else{
