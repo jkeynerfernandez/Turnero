@@ -9,14 +9,8 @@ namespace Turnero.Data{
         }
 
         public DbSet<Administrador> Administradores { get; set; }
-<<<<<<< HEAD
         public DbSet<Turno> Turnos { get; set; }
-=======
-        public DbSet<Buttons_services> Buttons_services { get; set; }
+    
     }
 
-    public class Buttons_services
-    {
->>>>>>> Vladimir
-    }
 }
