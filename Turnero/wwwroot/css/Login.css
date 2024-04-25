@@ -62,10 +62,11 @@ label{
 }
 
 .inputUsuario{
-    width: 80%;
+    width: 50%;
     height: 40px;
     margin-top: 30px;
     margin-bottom: 30px;
+    font-size: 30px;
 }
 
 .botonUsuario{
