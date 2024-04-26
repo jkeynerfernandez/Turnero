@@ -49,9 +49,7 @@ namespace Turnero.Controllers{
 
         //     return RedirectToAction("Index");
         // }
-        public async Task<IActionResult> Screen(int id){
-            return View(await _context.Turnos.ToListAsync());
-        }
+       
 
         //fin de agregar y mostrar historial
 
