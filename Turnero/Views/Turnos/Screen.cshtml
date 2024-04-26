@@ -1,0 +1,30 @@
+<body class="table_Histories">
+<div >
+    <h1 class="text-center mb-4">Su turno</h1>
+<div class="row ">
+        <table class="table">
+        <thead class="table table-dark">
+                <tr>
+                    <th scope="col"><b>Id</b></th>
+                    <th scope="col"><b>Tipo</b></th>
+                    <th scope="col"><b>Modulo</b></th>
+                </tr>
+            </thead>
+        <tbody class="table table-success table-hover table-striped">
+             @foreach (var Turno in Model)
+            {
+                <tr>
+                    <th scope="row">@Turno.Id</th>
+                    <td>@Turno.Tipo</td>
+                    <td>@Turno.ModuloId</td>
+                </tr>
+            }    
+            </tbody>
+        </table>
+       
+        
+    
+</div>
+
+</div>
+</body>
