@@ -10,7 +10,7 @@
             <tr>
                 <td>@turno.Tipo - @turno.Numero</td>
                 <td>
-                    <a asp-area="" asp-controller="" asp-action="" asp-route-id="" class="btn btn-primary">Atender</a>
+                    <a  asp-controller="Turnos" asp-action="Atendiendo" asp-route-id="@turno.Id" class="btn btn-primary">Atender</a>
                 </td>
             </tr>
         }

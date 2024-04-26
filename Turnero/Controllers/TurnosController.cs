@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Turnero.Data;
+using Turnero.Models;
 
 
 namespace Turnero.Controllers{
@@ -27,6 +28,27 @@ namespace Turnero.Controllers{
             int cantidad =_context.Turnos.Count(m=> m.Tipo == tipo);
             return cantidad;
 
+        }
+
+        public IActionResult Atendiendo(int Id){
+            var turno = _context.Turnos.FirstOrDefault(t => t.Id == Id);
+            var numeroTurno = turno.Numero;
+            var IdTurnito = turno.Id;
+            var elTurno = turno.Tipo + numeroTurno.ToString();
+            var puesto = HttpContext.Session.GetString("Puesto");
+            var nuevoTv = new Tv(){
+                TurnoId = elTurno,
+                puesto = puesto,
+                IdTurno = IdTurnito
+            };
+            _context.Tv.Add(nuevoTv);
+            _context.SaveChanges();
+            
+            return RedirectToAction("Tv");
+        }
+
+        public async Task<IActionResult> Tv(){
+            return View(await _context.Tv.ToListAsync());
         }
     }
 }
