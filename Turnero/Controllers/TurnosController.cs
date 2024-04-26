@@ -9,9 +9,6 @@ namespace Turnero.Controllers{
 
         public TurnosController(DataContext context){
             _context = context;
-
-            
-
         }
 
         public IActionResult Index(){

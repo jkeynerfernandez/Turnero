@@ -1,30 +1,27 @@
 <body class="table_Histories">
-<div >
-    <h1 class="text-center mb-4">Su turno</h1>
+
+    <h1 class="text mb-1"><b>Su turno</b></h1>
 <div class="row ">
-        <table class="table">
-        <thead class="table table-dark">
+        <table class="table col1 card">
+        <thead>
                 <tr>
                     <th scope="col"><b>Id</b></th>
-                    <th scope="col"><b>Tipo</b></th>
-                    <th scope="col"><b>Modulo</b></th>
+                    <th scope="col" ><b>Tipo</b></th>
+                    <th scope="col"  cla><b>Modulo</b></th>
                 </tr>
             </thead>
-        <tbody class="table table-success table-hover table-striped">
+        <tbody class="table back">
              @foreach (var Turno in Model)
             {
                 <tr>
-                    <th scope="row">@Turno.Id</th>
-                    <td>@Turno.Tipo</td>
-                    <td>@Turno.ModuloId</td>
+                    <th scope="row" ><b>@Turno.Id</b></th>
+                    <td scope="row"><b>@Turno.Tipo</b></td>
+                    <td scope="row"><b>@Turno.ModuloId</b></td>
                 </tr>
             }    
             </tbody>
-        </table>
-       
-        
-    
+        </table>  
 </div>
 
-</div>
+
 </body>

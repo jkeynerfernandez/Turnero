@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\Login.css"
     },
     {
+      "Id": "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\wwwroot\\css\\Screen.css",
+      "PackagePath": "staticwebassets\\css\\Screen.css"
+    },
+    {
       "Id": "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

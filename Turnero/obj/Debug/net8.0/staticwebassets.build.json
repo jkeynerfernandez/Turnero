@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "REsp1wGZaXIqSfQS1CKZ8tM7bNj+ciQmsToQI5V9o7U=",
+  "Hash": "ehiaMk7gDpfQPthhn+vrPluWxSf3RtGcbIZaWSm3GmI=",
   "Source": "Turnero",
   "BasePath": "_content/Turnero",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Login.css"
+    },
+    {
+      "Identity": "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\wwwroot\\css\\Screen.css",
+      "SourceId": "Turnero",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\wwwroot\\",
+      "BasePath": "_content/Turnero",
+      "RelativePath": "css/Screen.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Screen.css"
     },
     {
       "Identity": "C:\\Users\\vladi\\OneDrive\\Documentos\\C#\\turnero\\Turnero\\wwwroot\\css\\site.css",
