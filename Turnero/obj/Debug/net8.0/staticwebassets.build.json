@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hQTtlu4pIPpyopTDe7b3v4Vlut124JEj+hjdC6CEzQ0=",
+  "Hash": "/FQLOxBwMbI1LjOeY+gsXRVvrUCH18Ao36gYGYeyX9E=",
   "Source": "Turnero",
   "BasePath": "_content/Turnero",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "D:\\riwi\\csharp\\Turnero\\Turnero\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Turnero.bundle.scp.css"
     },
     {
+      "Identity": "D:\\riwi\\csharp\\Turnero\\Turnero\\wwwroot\\css\\Buttons_services.css",
+      "SourceId": "Turnero",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\riwi\\csharp\\Turnero\\Turnero\\wwwroot\\",
+      "BasePath": "_content/Turnero",
+      "RelativePath": "css/Buttons_services.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Buttons_services.css"
+    },
+    {
       "Identity": "D:\\riwi\\csharp\\Turnero\\Turnero\\wwwroot\\css\\Login.css",
       "SourceId": "Turnero",
       "SourceType": "Discovered",
@@ -72,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Login.css"
+    },
+    {
+      "Identity": "D:\\riwi\\csharp\\Turnero\\Turnero\\wwwroot\\css\\Screen.css",
+      "SourceId": "Turnero",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\riwi\\csharp\\Turnero\\Turnero\\wwwroot\\",
+      "BasePath": "_content/Turnero",
+      "RelativePath": "css/Screen.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Screen.css"
     },
     {
       "Identity": "D:\\riwi\\csharp\\Turnero\\Turnero\\wwwroot\\css\\site.css",

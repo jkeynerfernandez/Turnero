@@ -5,8 +5,16 @@
       "PackagePath": "staticwebassets\\Turnero.bundle.scp.css"
     },
     {
+      "Id": "D:\\riwi\\csharp\\Turnero\\Turnero\\wwwroot\\css\\Buttons_services.css",
+      "PackagePath": "staticwebassets\\css\\Buttons_services.css"
+    },
+    {
       "Id": "D:\\riwi\\csharp\\Turnero\\Turnero\\wwwroot\\css\\Login.css",
       "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "D:\\riwi\\csharp\\Turnero\\Turnero\\wwwroot\\css\\Screen.css",
+      "PackagePath": "staticwebassets\\css\\Screen.css"
     },
     {
       "Id": "D:\\riwi\\csharp\\Turnero\\Turnero\\wwwroot\\css\\site.css",

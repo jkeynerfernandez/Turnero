@@ -1,0 +1,69 @@
+ 
+    .card {
+        width: 300px;
+        height: 600px;
+        background-color: #0778adb0;
+        position: absolute;
+        
+        place-content: center;
+        place-items: center;
+        overflow: hidden;
+        border-radius: 20px;
+      
+        
+      }
+      tbody{margin-left: 110px;
+       
+
+      }
+      
+      .back {
+    
+        z-index: 5;
+        color: white;
+        
+      } 
+      
+     /*
+      .card::before {
+        content: '';
+        position: absolute;
+        width: 100%;
+        background-image: linear-gradient(180deg, rgb(1, 136, 189), rgb(20, 206, 219));
+        height: 130%;
+        animation: rotBGimg 3s linear infinite;
+        transition: all 0.1s linear;
+      }*/
+      
+      @keyframes rotBGimg {
+        from {
+          transform: rotate(0deg);
+        }
+      
+        to {
+          transform: rotate(360deg);
+        }
+      }
+      
+      .card::after {
+        content: '';
+        
+        inset: 5px;
+        border-radius: 15px;
+      }  
+
+
+
+.table_Histories{
+    background-color: #6307ad;
+    color: white;
+    background-image: url("https://img.freepik.com/fotos-premium/sala-recepcion-clinica-medica-o-hospital-interior-sala-espera-pacientes-esperando-cita-medico-ilustracion-vectorial-dibujos-animados-clinica-atencion-medica_979495-71953.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+  }
