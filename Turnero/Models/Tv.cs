@@ -4,5 +4,7 @@ namespace Turnero.Models{
         public string TurnoId { get; set;}
         public string  puesto { get; set;} 
         public int IdTurno { get; set;}
+
+        public DateOnly fecha  { get; set;}
     }
 }
