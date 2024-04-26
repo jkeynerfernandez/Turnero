@@ -32,20 +32,20 @@ namespace Turnero.Controllers{
             return View(await _context.Turnos.Where(t=>  t.Tipo=="PRF"|| t.Tipo==tipo ).Take(10).ToListAsync());
         }
         //agregar turno a Historial y mostrar en pantalla
-        public IActionResult Create(string Tipo, int Numero, string Modulo){
-             Console.WriteLine("Create action called");
-            var historialTurno = new HistorialTurno
-            {
-               Tipo = Tipo,
-               Numero = Numero,
-               Modulo = Modulo
-            };
+        // public IActionResult Create(string Tipo, int Numero, string Modulo){
+        //      Console.WriteLine("Create action called");
+        //     var historialTurno = new HistorialTurno
+        //     {
+        //        Tipo = Tipo,
+        //        Numero = Numero,
+        //        Modulo = Modulo
+        //     };
 
-            _context.HistorialTurnos.Add(historialTurno);
-            _context.SaveChanges();
+        //     _context.HistorialTurnos.Add(historialTurno);
+        //     _context.SaveChanges();
 
-            return RedirectToAction("Index");
-        }
+        //     return RedirectToAction("Index");
+        // }
         public async Task<IActionResult> Screen(int id){
             return View(await _context.Turnos.ToListAsync());
         }
