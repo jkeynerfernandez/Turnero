@@ -47,11 +47,9 @@
     <tbody>
         @foreach(var turno in Model) {
             <tr>
-                <td>@turno.Tipo - @turno.Id</td>
-                <td>  
-                    
-                        <a type="submit" class="btn btn-primary">Atender</a>
-
+                <td>@turno.Tipo - @turno.Numero</td>
+                <td>
+                    <a  asp-controller="Turnos" asp-action="Atendiendo" asp-route-id="@turno.Id" class="btn btn-primary">Atender</a>
                 </td>
             </tr>
         }

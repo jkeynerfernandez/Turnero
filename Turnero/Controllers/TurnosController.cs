@@ -61,5 +61,26 @@ namespace Turnero.Controllers{
             return cantidad;
 
         }
+
+        public IActionResult Atendiendo(int Id){
+            var turno = _context.Turnos.FirstOrDefault(t => t.Id == Id);
+            var numeroTurno = turno.Numero;
+            var IdTurnito = turno.Id;
+            var elTurno = turno.Tipo + numeroTurno.ToString();
+            var puesto = HttpContext.Session.GetString("Puesto");
+            var nuevoTv = new Tv(){
+                TurnoId = elTurno,
+                puesto = puesto,
+                IdTurno = IdTurnito
+            };
+            _context.Tv.Add(nuevoTv);
+            _context.SaveChanges();
+            
+            return RedirectToAction("Tv");
+        }
+
+        public async Task<IActionResult> Tv(){
+            return View(await _context.Tv.ToListAsync());
+        }
     }
 }

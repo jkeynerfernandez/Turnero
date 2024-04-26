@@ -24,7 +24,7 @@
         <div>
             <form asp-controller="Turnos" asp-action="Index">
                 <input value="SC" name="tipo" hidden>
-                <a asp-controller="Turnos" asp-action="Index"><button type="submit" class="btn btn-lg btn-primary btn-block">Módulo 1   (@ViewBag.CantidadSC turnos)</button></a>
+                <a asp-controller="Turnos" asp-action="Index"><button type="submit" class="btn btn-lg btn-primary btn-block botonModulo">SOLICITUD DE CITAS   (@ViewBag.CantidadSC turnos)</button></a>
 
             </form>
             
@@ -38,7 +38,7 @@
         <div>
             <form asp-controller="Turnos" asp-action="Index">
                 <input value="PF" name="tipo" hidden>
-                <a asp-controller="Turnos" asp-action="Index"><button type="submit" class="btn btn-lg btn-primary btn-block">Módulo 2    (@ViewBag.CantidadPF turnos)</button></a>
+                <a asp-controller="Turnos" asp-action="Index"><button type="submit" class="btn btn-lg btn-primary btn-block botonModulo">PAGO DE FACTURAS    (@ViewBag.CantidadPF turnos)</button></a>
 
             </form>
             
@@ -48,7 +48,7 @@
     <div class="text-center mx-auto" class="col-md-6">
         <form asp-controller="Turnos" asp-action="Index">
             <input value="AM" name="tipo" hidden>
-            <a asp-controller="Turnos" asp-action="Index"><button type="submit" class="btn btn-lg btn-primary btn-block">Módulo 3    (@ViewBag.CantidadAM turnos)</button></a>
+            <a asp-controller="Turnos" asp-action="Index"><button type="submit" class="btn btn-lg btn-primary btn-block botonModulo">AUTORIZACION DE MEDICAMENTOS    (@ViewBag.CantidadAM turnos)</button></a>
 
         </form>
     </div><br>
@@ -57,7 +57,7 @@
          <form asp-controller="Turnos" asp-action="Index">
 
                 <input value="IG" name="tipo" hidden>
-                <a asp-controller="Turnos" asp-action="Index"><button type="submit" class="btn btn-lg btn-primary btn-block">Módulo 4     (@ViewBag.CantidadIG turnos)</button></a>
+                <a asp-controller="Turnos" asp-action="Index"><button type="submit" class="btn btn-lg btn-primary btn-block botonModulo">IMFORMACION GENERAL     (@ViewBag.CantidadIG turnos)</button></a>
 
             </form>
         
@@ -106,27 +106,4 @@
 
 
 
-<div class="container">
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Nombre</th>
-                <th>Correo</th>
-                <th>Contraseña</th>
-                <th>Accion</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach(var ad in Model){
-                <tr>
-                    <td>@ad.Nombre</td>
-                    <td>@ad.Correo</td>
-                    <td>@ad.Contraseña</td>
-                    <td>
-                        <a class="btn btn-success" asp-controller="" asp-action="" asp-route-id="@ad.Id" >Atender</a>
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
-</div> 
+

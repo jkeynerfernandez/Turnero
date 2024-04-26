@@ -10,7 +10,7 @@ namespace Turnero.Data{
 
         public DbSet<Administrador> Administradores { get; set; }
         public DbSet<Turno> Turnos { get; set; }
-        public DbSet<HistorialTurno> HistorialTurnos { get; set; }
-        
+        public DbSet<Modulo> Modulos { get; set; }
+        public DbSet<Tv> Tv {get; set; }
     }
 }
