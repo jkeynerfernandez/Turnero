@@ -1,4 +1,4 @@
-
+<body class="botones_servicios">
 <nav>
     <div id ="userContainer">
         <div id="name">
@@ -15,7 +15,7 @@
      <div class="row">
 
         <div class="text-center mx-auto" class="col-md-12">
-            <h1>Elige el módulo en el que deseas trabajar</h1>
+            <h1 class="font_services">Elige el módulo en el que deseas trabajar</h1>
         </div>
        
     </div><br>
@@ -70,32 +70,32 @@
     if(ViewBag.CantidadSC>ViewBag.CantidadPF && ViewBag.CantidadSC>ViewBag.CantidadAM
        && ViewBag.CantidadSC>ViewBag.CantidadIG){
 
-        <div id="mensaje" class="alert alert-danger" role="alert">
-            <p>Creo que el módulo 1 necesita asistencia</p>
+        <div id="mensaje"  role="alert">
+            <p class=" p parpadea "><b>Creo que el módulo 1 necesita asistencia</b></p>
         </div>
 
 
     }else if(ViewBag.CantidadPF>ViewBag.CantidadSC && ViewBag.CantidadPF>ViewBag.CantidadAM
        && ViewBag.CantidadPF>ViewBag.CantidadIG){
 
-        <div id="mensaje" class="alert alert-danger" role="alert">
-            <p>Creo que el módulo 2 necesita asistencia</p>
+        <div id="mensaje"  role="alert">
+            <p class=" p parpadea "><b>Creo que el módulo 2 necesita asistencia</b></p>
         </div>
 
 
     }else if(ViewBag.CantidadAM>ViewBag.CantidadSC && ViewBag.CantidadAM>ViewBag.CantidadPF
        && ViewBag.CantidadAM>ViewBag.CantidadIG){
 
-        <div id="mensaje" class="alert alert-danger" role="alert">
-            <p>Creo que el módulo 3 necesita asistencia</p>
+        <div id="mensaje"  role="alert">
+            <p class="p parpadea"><b>Creo que el módulo 3 necesita asistencia</b></p>
         </div>
 
 
     }else if(ViewBag.CantidadIG>ViewBag.CantidadSC && ViewBag.CantidadIG>ViewBag.CantidadAM
        && ViewBag.CantidadIG>ViewBag.CantidadPF){
 
-        <div id="mensaje" class="alert alert-danger" role="alert">
-            <p>Creo que el módulo 4 necesita asistencia</p>
+        <div id="mensaje"  role="alert">
+            <p class="p parpadea"><b>Creo que el módulo 4 necesita asistencia</b></p>
         </div>
 
 
@@ -103,6 +103,7 @@
 }
 
 </div>
+</body>
 
 
 

@@ -1,17 +1,27 @@
 
-
-<div class="container containerLogin">
-    <form asp-controller="Login" asp-action="Login" method="post">
-        <div class="card cardLogin">
-            <div class="card-body">
-                <h1 class="h1Login">Bienvenido</h1>
-                <label for="">Nombre</label><br>
-                <input class="inputLogin" type="text" name="NombreLogin" >
-                <label for="">Contraseña</label><br>
-                <input class="inputLogin" type="password" name="ContraseñaLogin" >
-                <button type="submit" class="btn1 btn-primary botonLogin">Ingresar</button>
-                <h1 class="h1Alerta">@TempData["alerta"]</h1>
-            </div>
-        </div>
+<body class="body_login">
+<div class="form-card1">
+  <div class="form-card2">
+    <form class="form" asp-controller="Login" asp-action="Login" method="post">
+      <p class="form-heading"><b>Bienvenido al control <br> de usuario</b></p>
+      <div class="form-field">
+        <input required="" 
+            name="NombreLogin"
+            placeholder="Usuario" 
+            class="input-field" 
+            type="text" />
+      </div>
+      <div class="form-field">
+        <input
+          required=""
+          placeholder="Contraseña" 
+          name="ContraseñaLogin"
+          class="input-field"
+          type="password"
+        />
+      </div>
+      <button class="sendMessage-btn">Ingresar</button>
     </form>
+  </div>
 </div>
+</body>

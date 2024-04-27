@@ -1,4 +1,4 @@
- 
+  /*turnos*/
     .card {
         width: 400px;
         height: 700px;
@@ -77,3 +77,111 @@
     flex-direction: column;
   
   }
+
+
+  /*login*/
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    font-family: inherit;
+    gap: 10px;
+    padding-inline: 2em;
+    padding-bottom: 0.4em;
+    background-color: #17171786;
+    background-color: #0a192f87;
+    border-radius: 20px;
+    margin-top: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+  }
+  
+  .form-heading {
+    text-align: center;
+    margin: 2em;
+    color: #09dc37;
+    font-size: 2em;
+    background-color: transparent;
+    align-self: center;
+  }
+  
+  .form-field {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5em;
+    border-radius: 10px;
+    padding: 0.6em;
+    border: none;
+    outline: none;
+    color: rgba(255, 255, 255, 0.278);
+    background-color: #171717;
+    box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+  }
+  
+  .input-field {
+    background: none;
+    border: none;
+    outline: none;
+    width: 100%;
+    color: #03f795;
+    padding-inline: 1em;
+  }
+  
+  .sendMessage-btn {
+    cursor: pointer;
+    margin-bottom: 3em;
+    padding: 1em;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: #64ffda;
+    font-weight: bold;
+    outline: 1px solid #64ffda;
+    transition: all ease-in-out 0.3s;
+  }
+  
+  .sendMessage-btn:hover {
+    transition: all ease-in-out 0.3s;
+    background-color: #64ffda;
+    color: #000;
+    cursor: pointer;
+    box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+  }
+  
+  .form-card1 {
+    background-image: linear-gradient(163deg, #64ffda 0%, #64ffda 100%);
+    border-radius: 22px;
+    transition: all 0.3s;
+  }
+  
+  .form-card1:hover {
+    box-shadow: 0px 0px 30px 1px rgba(100, 255, 218, 0.3);
+  }
+  
+  .form-card2 {
+    border-radius: 0;
+    transition: all 0.2s;
+  }
+  
+  .form-card2:hover {
+    transform: scale(0.98);
+    border-radius: 20px;
+    
+  }
+
+  .body_login{
+    background-color: #6307ad;
+    color: white;
+    background-image: url("https://img.freepik.com/fotos-premium/sala-recepcion-clinica-medica-o-hospital-interior-sala-espera-pacientes-esperando-cita-medico-ilustracion-vectorial-dibujos-animados-clinica-atencion-medica_979495-71953.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  

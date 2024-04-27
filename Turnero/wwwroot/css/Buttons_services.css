@@ -89,3 +89,65 @@ body.background-services{
   background-color: rgb(65, 242, 16);
   border-radius: 0;
 }
+
+/*botones servicios*/
+.botones_servicios{
+  background-color: #6307ad;
+    color: white;
+    background-image: url("https://img.freepik.com/fotos-premium/sala-recepcion-clinica-medica-o-hospital-interior-sala-espera-pacientes-esperando-cita-medico-ilustracion-vectorial-dibujos-animados-clinica-atencion-medica_979495-71953.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.container{
+  margin-top: 20px;
+}
+.font_services{
+  font-size: 50px;
+  color: rgb(0, 95, 11);
+  margin-left: 40px;
+}
+
+.p{
+  margin-top: 60px;
+  background-color: rgba(13, 140, 209, 0.989);
+  color: rgb(247, 0, 8);
+  font-size: 40px;
+  padding-left: 160px;
+  border: 2px solid rgb(250, 7, 15);
+  
+}
+.parpadea {
+  
+  animation-name: parpadeo;
+  animation-duration: 9s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+
+  -webkit-animation-name:parpadeo;
+  -webkit-animation-duration: 2s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+}
+
+@-moz-keyframes parpadeo{  
+  0% { opacity: 1.0; }
+  50% { opacity: 0.0; }
+  100% { opacity: 1.0; }
+}
+
+@-webkit-keyframes parpadeo {  
+  0% { opacity: 1.0; }
+  50% { opacity: 0.0; }
+   100% { opacity: 1.0; }
+}
+
+@keyframes parpadeo {  
+  0% { opacity: 1.0; }
+   50% { opacity: 0.0; }
+  100% { opacity: 1.0; }
+}

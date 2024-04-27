@@ -9,75 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Turnero
 build_property.RootNamespace = Turnero
-build_property.ProjectDir = D:\riwi\csharp\Turnero\Turnero\
+build_property.ProjectDir = C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\riwi\csharp\Turnero\Turnero
+build_property.MSBuildProjectDirectory = C:\Users\vladi\OneDrive\Documentos\C#\turnero\Turnero
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Administradores/Index.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Administradores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5pc3RyYWRvcmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Login/Botones.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Login/Botones.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQm90b25lcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Login/Button_service.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Login/Button_service.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQnV0dG9uX3NlcnZpY2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Login/Index.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Login/Usuario.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Login/Usuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVXN1YXJpby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Login/VistaTurno.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Login/VistaTurno.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVmlzdGFUdXJuby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Modulos/Index.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Modulos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9kdWxvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Screens_turns/Ticket.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyZWVuc190dXJuc1xUaWNrZXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/riwi/csharp/Turnero/Turnero/Views/Shared/Error.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Turnos/Index.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Turnos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Turnos/Screen.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Turnos/Screen.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXFNjcmVlbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Turnos/Tv.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Turnos/Tv.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXFR2LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/_ViewImports.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/_ViewStart.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/riwi/csharp/Turnero/Turnero/Views/Shared/_Layout.cshtml]
+[C:/Users/vladi/OneDrive/Documentos/C\#/turnero/Turnero/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-rqsnqdolni
