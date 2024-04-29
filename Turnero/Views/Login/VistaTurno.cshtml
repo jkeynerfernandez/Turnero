@@ -1,10 +1,9 @@
 
 
-
-
-<div class="container containerLogin">
-    <div class="card cardTurnito">
-        <div class="card-body">
+<body class="ficho_turno">
+<div class="container">
+    <div class=" cardTurnito">
+        <div class="card-turno parpadea">
             <h1 class="h1suTurno">Su Turno es:</h1>
             @foreach(var t in Model){
                 <h1 class="elTurno">@t.Tipo - @t.Numero</h1>

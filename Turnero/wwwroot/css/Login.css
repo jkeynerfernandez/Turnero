@@ -1,19 +1,5 @@
 
 
-.containerLogin{
-    width: 100%;
-    display: grid;
-    place-content: center;
-}
-
-.cardLogin{
-    width: 400px;
-    height: 500px;
-    border: 1px solid black;
-    text-align: center;
-    top: 100px;
-    border-radius: 15px;
-}
 
 .h1Login{
     font-size: 50px;
@@ -59,14 +45,10 @@ label{
     width: 80px;
     padding: 0%;
     margin: 0%;
+    font-size: 40px;
 }
 
-.inputUsuario{
-    width: 80%;
-    height: 40px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-}
+
 
 .botonUsuario{
     width: 50%;
@@ -88,12 +70,16 @@ label{
 }
 
 .cardTurnito{
-    top: 100px;
+
+    margin-top: 250px;
+    background-color: rgba(0, 255, 255, 0.407);
+
     
 }
 
 .h1suTurno{
     font-size: 50px;
+    color: black;
 }
 
 .elTurno{
@@ -127,4 +113,60 @@ label{
 
 .botonModulo{
     width: 500px;
+}
+/*teclado users*/
+.card-turno{
+    background-color: rgba(44, 232, 11, 0.682);
+    color: rgb(250, 0, 221);
+    border-radius: 15px;
+    border: 4px solid ;
+    margin:20px;
+    text-align: center;
+    font-size: 400px;
+  }
+  .inputUsuario{
+    width: 90%;
+    height: 70px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    border-radius: 15px;
+    border: solid 2px ;
+}
+.title-teclado{
+ text-align: center;
+ font-size: 100px;
+ color: antiquewhite;
+}
+.containerLogin{
+    width: 100%;
+    margin-right: 600px;
+    place-content: center;
+    border-radius: 15px;   
+}
+.background_servicios_usuario{
+    background-image: url("https://img.freepik.com/free-vector/flat-hand-drawn-hospital-reception-scene_52683-55313.jpg");
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
+
+.cardLogin{
+    width: 400px;
+    height: 500px;
+    border: 1px solid black;
+    text-align: center;
+    top: 100px;
+    border-radius: 15px;
+}
+.body_teclado{
+    background-image: url("https://www.shutterstock.com/image-vector/medical-equipment-3d-cartoon-style-600nw-2114404790.jpg");
+    background-repeat: no-repeat ;
+    background-size: cover;
+
+}
+ /*ficho_turno*/
+ .ficho_turno{
+    background-image: url("https://www.shutterstock.com/image-vector/medical-form-list-results-data-600nw-1511231000.jpg");
+    background-repeat: no-repeat ;
+    background-size: cover;
 }
