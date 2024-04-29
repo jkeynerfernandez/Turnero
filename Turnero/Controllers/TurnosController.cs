@@ -26,7 +26,7 @@ namespace Turnero.Controllers{
             //fin del conteo :)
 
             
-            return View(await _context.Turnos.Where(t=>  t.Tipo=="PRF"|| t.Tipo==tipo ).Take(10).ToListAsync());
+            return View(await _context.Turnos.Where(t=>  (t.Tipo=="PRF"|| t.Tipo==tipo) &&(t.Estado ==2)  ).Take(10).ToListAsync());
         }
 
          public async Task<IActionResult> Screen(){

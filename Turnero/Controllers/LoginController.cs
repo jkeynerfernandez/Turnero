@@ -60,7 +60,8 @@ namespace Turnero.Controllers{
                 var NuevoTurno = new Turno (){
                     Tipo = "SC",
                     Numero = n,
-                    ModuloId = 1
+                    ModuloId = 1,
+                    Estado = 1
                 };
                 _context.Turnos.Add(NuevoTurno);
                 _context.SaveChanges();
@@ -71,7 +72,8 @@ namespace Turnero.Controllers{
                 var NuevoTurno = new Turno (){
                     Tipo = "SC",
                     Numero = n + 1,
-                    ModuloId = 1
+                    ModuloId = 1,
+                    Estado = 1
                 };
                 _context.Turnos.Add(NuevoTurno);
                 _context.SaveChanges();
@@ -87,7 +89,8 @@ namespace Turnero.Controllers{
                 var NuevoTurno = new Turno (){
                     Tipo = "PF",
                     Numero = n,
-                    ModuloId = 1
+                    ModuloId = 1,
+                    Estado = 1
                 };
                 _context.Turnos.Add(NuevoTurno);
                 _context.SaveChanges();
@@ -98,7 +101,8 @@ namespace Turnero.Controllers{
                 var NuevoTurno = new Turno (){
                     Tipo = "PF",
                     Numero = n + 1,
-                    ModuloId = 1
+                    ModuloId = 1,
+                    Estado = 1
                 };
                 _context.Turnos.Add(NuevoTurno);
                 _context.SaveChanges();
@@ -114,7 +118,8 @@ namespace Turnero.Controllers{
                 var NuevoTurno = new Turno (){
                     Tipo = "AM",
                     Numero = n,
-                    ModuloId = 1
+                    ModuloId = 1,
+                    Estado = 1
                 };
                 _context.Turnos.Add(NuevoTurno);
                 _context.SaveChanges();
@@ -125,7 +130,8 @@ namespace Turnero.Controllers{
                 var NuevoTurno = new Turno (){
                     Tipo = "AM",
                     Numero = n + 1,
-                    ModuloId = 1
+                    ModuloId = 1,
+                    Estado = 1
                 };
                 _context.Turnos.Add(NuevoTurno);
                 _context.SaveChanges();
@@ -141,7 +147,8 @@ namespace Turnero.Controllers{
                 var NuevoTurno = new Turno (){
                     Tipo = "IG",
                     Numero = n,
-                    ModuloId = 1
+                    ModuloId = 1,
+                    Estado = 1
                 };
                 _context.Turnos.Add(NuevoTurno);
                 _context.SaveChanges();
@@ -152,7 +159,8 @@ namespace Turnero.Controllers{
                 var NuevoTurno = new Turno (){
                     Tipo = "IG",
                     Numero = n + 1,
-                    ModuloId = 1
+                    ModuloId = 1,
+                    Estado = 1
                 };
                 _context.Turnos.Add(NuevoTurno);
                 _context.SaveChanges();

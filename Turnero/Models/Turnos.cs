@@ -4,6 +4,9 @@ namespace Turnero.Models{
         public string Tipo { get; set;}
         public int Numero { get; set;} 
         public int ModuloId { get; set;}
+        public int Estado { get; set;}
+
+        
 
     }
 }
