@@ -74,3 +74,41 @@ C:/Users/vladi/OneDrive/Documentos/C#/turnero/Turnero/obj/Debug/net8.0/ref/Turne
 /home/riwip4-013/Documents/Keyner C#/Turnero/Turnero/obj/Debug/net8.0/Turnero.pdb
 /home/riwip4-013/Documents/Keyner C#/Turnero/Turnero/obj/Debug/net8.0/Turnero.genruntimeconfig.cache
 /home/riwip4-013/Documents/Keyner C#/Turnero/Turnero/obj/Debug/net8.0/ref/Turnero.dll
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/appsettings.Development.json
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/appsettings.json
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/Turnero.staticwebassets.runtime.json
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/Turnero
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/Turnero.deps.json
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/Turnero.runtimeconfig.json
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/Turnero.dll
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/Turnero.pdb
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/MySqlConnector.dll
+/home/riwip4-047/Desktop/turnero/Turnero/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.csproj.AssemblyReference.cache
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.AssemblyInfoInputs.cache
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.AssemblyInfo.cs
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.csproj.CoreCompileInputs.cache
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.MvcApplicationPartsAssemblyInfo.cache
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.RazorAssemblyInfo.cache
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.RazorAssemblyInfo.cs
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.sourcelink.json
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/staticwebassets.build.json
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/staticwebassets.development.json
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/staticwebassets/msbuild.Turnero.Microsoft.AspNetCore.StaticWebAssets.props
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/staticwebassets/msbuild.build.Turnero.props
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Turnero.props
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Turnero.props
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/staticwebassets.pack.json
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/scopedcss/bundle/Turnero.styles.css
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/scopedcss/projectbundle/Turnero.bundle.scp.css
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.csproj.Up2Date
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.dll
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/refint/Turnero.dll
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.pdb
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/Turnero.genruntimeconfig.cache
+/home/riwip4-047/Desktop/turnero/Turnero/obj/Debug/net8.0/ref/Turnero.dll

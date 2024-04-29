@@ -1,22 +1,3 @@
-@* <div class="container containerLogin">
-    <table class="table table-striped table-bordered tablaTv">
-        <thead>
-            <tr>
-                <th class="thTv">Puesto</th>
-                <th class="thTv">Turno</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach(var t in Model){
-                <tr>
-                    <td class="tdTv tdPuesto">@t.puesto</td>
-                    <td class="tdTv">@t.TurnoId</td>
-                </tr>
-            }
-        </tbody>
-    </table>
-</div>
- *@
 
 
 <body class="table_Histories">
@@ -35,8 +16,8 @@
              @foreach (var Turno in Model)
             {
                 <tr>
-                    <td scope="row"><b>@Turno.puesto</b></td>
-                    <td scope="row"><b >>_______@Turno.TurnoId</b></td>
+                    <td scope="row"><b>@Turno.ModuloId</b></td>
+                    <td scope="row"><b >>_______@Turno.Tipo - @Turno.Numero</b></td>
                     
                 </tr>
             }    

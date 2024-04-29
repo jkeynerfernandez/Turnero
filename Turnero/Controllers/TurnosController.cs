@@ -26,7 +26,20 @@ namespace Turnero.Controllers{
             //fin del conteo :)
 
             
-            return View(await _context.Turnos.Where(t=>  (t.Tipo=="PRF"|| t.Tipo==tipo) &&(t.Estado ==2)  ).Take(10).ToListAsync());
+            return View(await _context.Turnos.Where(t=>  (t.Tipo=="PRF"|| t.Tipo==tipo) &&(t.Estado ==1)  ).Take(10).ToListAsync());
+        }
+
+        public IActionResult EditTurno( Turno turno){
+
+           var turnoActual = _context.Turnos.FirstOrDefault(t => t.Id == turno.Id);
+            if (turnoActual != null)
+            {
+                turnoActual.Estado = turno.Estado; 
+                _context.SaveChanges();
+            }
+            return RedirectToAction("Index","Administradores");
+
+
         }
 
          public async Task<IActionResult> Screen(){
@@ -81,7 +94,7 @@ namespace Turnero.Controllers{
         }
 
         public async Task<IActionResult> Tv(){
-            return View(await _context.Tv.ToListAsync());
+            return View(await _context.Turnos.Where(t=>  (t.Estado ==2)  ).Take(5).ToListAsync());
         }
     }
 }

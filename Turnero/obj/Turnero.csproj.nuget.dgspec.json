@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/riwip4-013/Documents/Keyner C#/Turnero/Turnero/Turnero.csproj": {}
+    "/home/riwip4-047/Desktop/turnero/Turnero/Turnero.csproj": {}
   },
   "projects": {
-    "/home/riwip4-013/Documents/Keyner C#/Turnero/Turnero/Turnero.csproj": {
+    "/home/riwip4-047/Desktop/turnero/Turnero/Turnero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/riwip4-013/Documents/Keyner C#/Turnero/Turnero/Turnero.csproj",
+        "projectUniqueName": "/home/riwip4-047/Desktop/turnero/Turnero/Turnero.csproj",
         "projectName": "Turnero",
-        "projectPath": "/home/riwip4-013/Documents/Keyner C#/Turnero/Turnero/Turnero.csproj",
-        "packagesPath": "/home/riwip4-013/.nuget/packages/",
-        "outputPath": "/home/riwip4-013/Documents/Keyner C#/Turnero/Turnero/obj/",
+        "projectPath": "/home/riwip4-047/Desktop/turnero/Turnero/Turnero.csproj",
+        "packagesPath": "/home/riwip4-047/.nuget/packages/",
+        "outputPath": "/home/riwip4-047/Desktop/turnero/Turnero/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/riwip4-013/.nuget/NuGet/NuGet.Config"
+          "/home/riwip4-047/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -66,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/riwip4-047/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

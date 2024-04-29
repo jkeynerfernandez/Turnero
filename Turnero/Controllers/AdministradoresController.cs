@@ -17,10 +17,10 @@ namespace Turnero.Controllers{
 
 
             //variables que contendrán la cantidad de turnos por cada tipo 
-            var cantidadSC = _context.Turnos.Count(m => m.Tipo == "SC");
-            var cantidadPF = _context.Turnos.Count(m => m.Tipo == "PF");
-            var cantidadAM = _context.Turnos.Count(m => m.Tipo == "AM");
-            var cantidadIG = _context.Turnos.Count(m => m.Tipo == "IG");
+            var cantidadSC = _context.Turnos.Count(m => m.Tipo == "SC" && m.Estado == 1);
+            var cantidadPF = _context.Turnos.Count(m => m.Tipo == "PF" && m.Estado == 1);
+            var cantidadAM = _context.Turnos.Count(m => m.Tipo == "AM" && m.Estado == 1);
+            var cantidadIG = _context.Turnos.Count(m => m.Tipo == "IG" && m.Estado == 1);
 
             ViewBag.CantidadSC = cantidadSC;
             ViewBag.CantidadPF = cantidadPF;
